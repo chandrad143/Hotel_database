@@ -1,5 +1,5 @@
-# School_database
-Designed a database for school as part of my coursework
+# Hotel_database
+Designed a database for Hotel as part of my coursework
 Using the database system data of customers can be stored and retrieved easily,
 things which can be done by aa database system includes details of the customer who books a hotel, 
 check-ins,
