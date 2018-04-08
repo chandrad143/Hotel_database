@@ -1,3 +1,7 @@
+/*DML: Data Manipulation Language
+Done after creating a database, to load some values into the tables
+Done by the following code*/
+
 INSERT INTO CUSTOMERS VALUES('04D41V0','Tom','Cruise','1210 main street','22','M','Gold');
 INSERT INTO CUSTOMERS VALUES('08B41V0','Tony','James','131 whitney avenue','28','M','Silver');
 INSERT INTO CUSTOMERS VALUES('09D41M0','Nancy','Henry','400 lalley bolevard','30','F','Silver');
