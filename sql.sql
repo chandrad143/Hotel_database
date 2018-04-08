@@ -1,5 +1,7 @@
 
  
+/* Some sql commands to extract data from the database */
+
 1.  /* check the information of the customer whose Id is'08B41V0' */
  select * from CUSTOMERS where customer_ID='08B41V0';
 
