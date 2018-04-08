@@ -1,3 +1,8 @@
+/* DDL: Data Definition Language
+to define how our database should look like, defining the schema of the database
+creating tables,attributes for the tables */
+
+
 create table CUSTOMERS 
 (
 Customer_ID Varchar2(25),
